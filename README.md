@@ -159,8 +159,8 @@ Inspired by Phrack 49, Aleph One, and every "yes, but why does it crash" moment.
 
 ## `$ finger notfound`
 
-- web   <https://notfound.github.io>
-- blog  <https://notfound.github.io>
+- web   <https://notfoundsoft.github.io>
+- blog  <https://notfoundsoft.github.io>
 - mail  <notfoundsoft@gmail.com>
 - pgp   `C80C 3C16 6DEF C9D7 8C03  23BE AA18 BCA7 0A41 0258` ([pubkey.asc](pubkey.asc))
 
